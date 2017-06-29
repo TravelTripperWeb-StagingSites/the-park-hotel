@@ -1,6 +1,6 @@
 {
-    "name": "The Spa",
-    "description":  "Have a nice relaxing time at the spa",
-    "order": 1,
-    "hidden": false
+  "name": "Dining",
+  "description": " <br />Grab a bite at one of the hotel&apos;s 2 restaurants, or stay in and take advantage of 24-hour room service. Relax with a refreshing drink from a poolside bar or one of the 2 bars/lounges.",
+  "order": 1,
+  "hidden": false
 }

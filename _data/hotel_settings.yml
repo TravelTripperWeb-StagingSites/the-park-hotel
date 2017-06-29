@@ -1,0 +1,16 @@
+---
+_hotel_id: THE379
+_portal_id: required-but-empty
+_root_path: https://qa4.ttaws.com/rt
+latitude: 28.62123
+longitude: 77.21119
+name: The Park New Delhi
+email: vishal@traveltripper.com
+phone_number: "--"
+address:
+  street1: 15 Parliament Street
+  street2: ''
+  state: ''
+  city: New Delhi
+  country: 
+  zip_code: '110001'

@@ -1,8 +1,8 @@
 {
-  "name": "First Image",
-  "image": { 
-    "url": "/assets/images/about-1.jpg"
+  "name": "Lead Photo",
+  "image": {
+    "url": "http://d2r4g49zv9n1lp.cloudfront.net/1134/112674_1_master.jpg"
   },
-  "order": 2,
+  "order": 1,
   "hidden": false
 }
