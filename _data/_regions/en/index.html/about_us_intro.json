@@ -1,1 +1,6 @@
-[{"_template":"html","content":"<p> Describe some features of your hotel or place a tag line here. </p>"}]
+[
+  {
+    "_template": "html",
+    "content": "<p>Features of your hotel&nbsp;</p>"
+  }
+]
